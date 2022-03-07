@@ -1,0 +1,15 @@
+{
+  "name": "99-interview-cypress",
+  "version": "1.0.0",
+  "description": "QA tech challenge",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yeow Ji Mi",
+  "license": "ISC"
+}
