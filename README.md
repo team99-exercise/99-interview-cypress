@@ -38,8 +38,8 @@ All of the following information is documented in [Cypress/Core Concepts - The T
 
 - Please code out your answers in
   ```
-  cypress/e2e/TestSuite1.cy.js
-  cypress/e2e/TestSuite2.cy.js
-  cypress/e2e/TestSuite3.cy.js
+  cypress/e2e/WebSuite1.cy.js
+  cypress/e2e/WebSuite2.cy.js
+  cypress/e2e/WebSuite3.cy.js
   ```
 - Do not use any 3rd party libraries or plugins for the tech challenge. The Cypress built-in library is sufficient to complete the task.
