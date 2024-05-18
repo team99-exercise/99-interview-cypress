@@ -1,0 +1,19 @@
+# Cypress generated files
+/cypress/videos/
+/cypress/screenshots/
+/cypress/downloads/
+
+# Local configuration file
+/cypress.env.json
+
+# Node modules
+/node_modules
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# macOS metadata files
+.DS_Store
